@@ -1,0 +1,448 @@
+{
+   "category": {
+      "@term": "androiddev",
+      "@label": "r/androiddev"
+   },
+   "updated": "2019-02-15T17:19:42+00:00",
+   "icon": "https://www.redditstatic.com/icon.png/",
+   "id": "/r/androiddev/new.rss",
+   "link": [
+      {
+         "@rel": "self",
+         "@href": "https://www.reddit.com/r/androiddev/new.rss"
+      },
+      {
+         "@rel": "alternate",
+         "@href": "https://www.reddit.com/r/androiddev/new"
+      }
+   ],
+   "subtitle": "News for Android developers with the who, what, where when and how of the Android community. Probably mostly the how. Here, you'll find: - News for Android developers - Thoughtful, informative articles - Insightful talks and presentations - Useful libraries - Handy tools - Open source applications for studying",
+   "title": "newest submissions : androiddev",
+   "entry": [
+      {
+         "author": {
+            "name": "/u/In-nox",
+            "uri": "https://www.reddit.com/user/In-nox"
+         },
+         "category": {
+            "@term": "androiddev",
+            "@label": "r/androiddev"
+         },
+         "content": "<!-- SC_OFF --><div class=\"md\"><p>This most recent permissions snafu just shows that they are an absolute monopoly, with monolithic control over their store,their libraries, and services.Banning developers by association without a human being reviewing the ban for nuances is ridiculous. <\/p> <\/div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/In-nox\"> /u/In-nox <\/a> <br/> <span><a href=\"https://www.reddit.com/r/androiddev/comments/aqytyh/google_is_a_monopoly_and_needs_to_be_broken_up/\">[link]<\/a><\/span> &#32; <span><a href=\"https://www.reddit.com/r/androiddev/comments/aqytyh/google_is_a_monopoly_and_needs_to_be_broken_up/\">[comments]<\/a><\/span>",
+         "id": "t3_aqytyh",
+         "link": {
+            "@href": "https://www.reddit.com/r/androiddev/comments/aqytyh/google_is_a_monopoly_and_needs_to_be_broken_up/"
+         },
+         "updated": "2019-02-15T17:19:00+00:00",
+         "title": "Google is a monopoly and needs to be broken up."
+      },
+      {
+         "author": {
+            "name": "/u/dynamite2277",
+            "uri": "https://www.reddit.com/user/dynamite2277"
+         },
+         "category": {
+            "@term": "androiddev",
+            "@label": "r/androiddev"
+         },
+         "content": "<!-- SC_OFF --><div class=\"md\"><p>I have an idea for an app I want to build to help some special educational needs children, and as I feel it&#39;ll be a good learning experience. However, I&#39;m struggling with alot of the basics (even when reading up online and watching YouTube videos) I was curious if there is anyone who knows how do build such a thing could help me out? :) <\/p> <p>Thank you <\/p> <\/div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/dynamite2277\"> /u/dynamite2277 <\/a> <br/> <span><a href=\"https://www.reddit.com/r/androiddev/comments/aqxqxa/help_building_an_app/\">[link]<\/a><\/span> &#32; <span><a href=\"https://www.reddit.com/r/androiddev/comments/aqxqxa/help_building_an_app/\">[comments]<\/a><\/span>",
+         "id": "t3_aqxqxa",
+         "link": {
+            "@href": "https://www.reddit.com/r/androiddev/comments/aqxqxa/help_building_an_app/"
+         },
+         "updated": "2019-02-15T15:37:12+00:00",
+         "title": "Help building an app"
+      },
+      {
+         "author": {
+            "name": "/u/Loud_Max",
+            "uri": "https://www.reddit.com/user/Loud_Max"
+         },
+         "category": {
+            "@term": "androiddev",
+            "@label": "r/androiddev"
+         },
+         "content": "<table> <tr><td> <a href=\"https://www.reddit.com/r/androiddev/comments/aqxn9w/android_library_android_swipeable_button_like_in/\"> <img src=\"https://b.thumbs.redditmedia.com/07DuXovSMulC6I36iCPX4Y7DHnBgxBfAfFFLYWGkxXo.jpg\" alt=\"[Android Library] Android Swipeable button like in iOS unlock screen.\" title=\"[Android Library] Android Swipeable button like in iOS unlock screen.\" /> <\/a> <\/td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Loud_Max\"> /u/Loud_Max <\/a> <br/> <span><a href=\"https://github.com/stfalcon-studio/swipeable-button\">[link]<\/a><\/span> &#32; <span><a href=\"https://www.reddit.com/r/androiddev/comments/aqxn9w/android_library_android_swipeable_button_like_in/\">[comments]<\/a><\/span> <\/td><\/tr><\/table>",
+         "id": "t3_aqxn9w",
+         "link": {
+            "@href": "https://www.reddit.com/r/androiddev/comments/aqxn9w/android_library_android_swipeable_button_like_in/"
+         },
+         "updated": "2019-02-15T15:27:10+00:00",
+         "title": "[Android Library] Android Swipeable button like in iOS unlock screen."
+      },
+      {
+         "author": {
+            "name": "/u/Hwazi",
+            "uri": "https://www.reddit.com/user/Hwazi"
+         },
+         "category": {
+            "@term": "androiddev",
+            "@label": "r/androiddev"
+         },
+         "content": "<!-- SC_OFF --><div class=\"md\"><p>What kind of architecture you use when developing professional application? Where it&#39;s easy to start and to grow as code grows as well the application and adding/removing features.<\/p> <\/div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Hwazi\"> /u/Hwazi <\/a> <br/> <span><a href=\"https://www.reddit.com/r/androiddev/comments/aqwyjb/what_architecture_do_you_useprefer_while/\">[link]<\/a><\/span> &#32; <span><a href=\"https://www.reddit.com/r/androiddev/comments/aqwyjb/what_architecture_do_you_useprefer_while/\">[comments]<\/a><\/span>",
+         "id": "t3_aqwyjb",
+         "link": {
+            "@href": "https://www.reddit.com/r/androiddev/comments/aqwyjb/what_architecture_do_you_useprefer_while/"
+         },
+         "updated": "2019-02-15T14:15:54+00:00",
+         "title": "What Architecture do you use/prefer while developing android app?"
+      },
+      {
+         "author": {
+            "name": "/u/_wsgeorge",
+            "uri": "https://www.reddit.com/user/_wsgeorge"
+         },
+         "category": {
+            "@term": "androiddev",
+            "@label": "r/androiddev"
+         },
+         "content": "<!-- SC_OFF --><div class=\"md\"><p>If it&#39;s wise to share the SHA1 fingerprints of my certificates, please let me know so I do that.<\/p> <p>For a week now, I haven&#39;t been able to upload a new APK because of this issue. When I build an APK using the <code>Build &gt; Generate Signed Bundle/APK...<\/code> menu and sign with <em>CertA<\/em>, my uploads to the Play Store fail because the console claims I&#39;ve used another cert (<em>CertB<\/em>) with a different SHA1 fingerprint.<\/p> <p>I&#39;ve ran the <code>keytool<\/code> on both certs to verify their fingerprints, and viewed the Gradle signingReport after including the keystore path and passwords in my <code>build.gradle<\/code> file, to make sure I wasn&#39;t selecting the wrong cert file in the previous dialog.<\/p> <p>I have confirmed that my new APK was signed with the cert the Play Dev Console says I previously used in my upload, but the APK is still rejected.<\/p> <p>This is on an Internal track. The app hasn&#39;t been sent to production yet. What do I do? <\/p> <p>Below is my Android Studio version. Has anyone experienced anything of this sort? <\/p> <blockquote> <p>Android Studio 3.3.1 Build #AI-182.5107.16.33.5264788, built on January 28, 2019 JRE: 1.8.0_152-release-1248-b01 x86_64 JVM: OpenJDK 64-Bit Server VM by JetBrains s.r.o macOS 10.14.1<\/p> <\/blockquote> <p>EDIT: I don&#39;t know if this may be related, but AS messed up with me big time yesterday. While I repeatedly selected one product flavour to debug on my emulator, Android Studio kept building <em>a different flavour<\/em> each time. It&#39;s stopped now.<\/p> <\/div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/_wsgeorge\"> /u/_wsgeorge <\/a> <br/> <span><a href=\"https://www.reddit.com/r/androiddev/comments/aqwugd/android_studio_331_tells_me_my_apk_is_signed_with/\">[link]<\/a><\/span> &#32; <span><a href=\"https://www.reddit.com/r/androiddev/comments/aqwugd/android_studio_331_tells_me_my_apk_is_signed_with/\">[comments]<\/a><\/span>",
+         "id": "t3_aqwugd",
+         "link": {
+            "@href": "https://www.reddit.com/r/androiddev/comments/aqwugd/android_studio_331_tells_me_my_apk_is_signed_with/"
+         },
+         "updated": "2019-02-15T14:03:22+00:00",
+         "title": "Android Studio 3.3.1 tells me my apk is signed with one certificate, Play Dev Console says its signed with another."
+      },
+      {
+         "author": {
+            "name": "/u/IntuitionaL",
+            "uri": "https://www.reddit.com/user/IntuitionaL"
+         },
+         "category": {
+            "@term": "androiddev",
+            "@label": "r/androiddev"
+         },
+         "content": "<!-- SC_OFF --><div class=\"md\"><p>I just published my first app but it&#39;s really hard to find on the play store. I basically have to copy and paste the title of my app to have it even appear.<\/p> <p>To be a bit vague, let&#39;s say the key search term I want my app to appear in is &quot;music player&quot;. My app would be called &quot;music player zen&quot; or something like that. When I search &quot;music player&quot;, all other apps would appear such as &quot;music player free/pro&quot;, &quot;music player youtube&quot; etc. or even apps without the word &quot;music player&quot; in their title.<\/p> <p>However, my app will not appear at all unless I type in &quot;music player zen&quot; (the title of my app as an example).<\/p> <p>I&#39;ve tried to put in more key words in both my title and descriptions of my listing but nothing seems to work. You would think if you have at least &quot;music player&quot; in the title, typing in music player as a search term would have your app to appear but it doesn&#39;t.<\/p> <p>Is it because my app is still too fresh? Or am I doing something really wrong here?<\/p> <p>I can give the real example and the link to my listing, but I don&#39;t want to break any rules for promotion. But I&#39;d like some feedback.<\/p> <\/div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/IntuitionaL\"> /u/IntuitionaL <\/a> <br/> <span><a href=\"https://www.reddit.com/r/androiddev/comments/aqwr20/published_my_first_app_but_its_very_hard_to_find/\">[link]<\/a><\/span> &#32; <span><a href=\"https://www.reddit.com/r/androiddev/comments/aqwr20/published_my_first_app_but_its_very_hard_to_find/\">[comments]<\/a><\/span>",
+         "id": "t3_aqwr20",
+         "link": {
+            "@href": "https://www.reddit.com/r/androiddev/comments/aqwr20/published_my_first_app_but_its_very_hard_to_find/"
+         },
+         "updated": "2019-02-15T13:52:26+00:00",
+         "title": "Published my first app, but it's very hard to find"
+      },
+      {
+         "author": {
+            "name": "/u/AutoModerator",
+            "uri": "https://www.reddit.com/user/AutoModerator"
+         },
+         "category": {
+            "@term": "androiddev",
+            "@label": "r/androiddev"
+         },
+         "content": "<!-- SC_OFF --><div class=\"md\"><p>Here&#39;s your chance to talk about whatever!<\/p> <p>Although if you&#39;re thinking about getting feedback on an app, you should wait until tomorrow&#39;s App Feedback thread.<\/p> <p>Remember that while you can talk about any topic, being a jerk is <a href=\"https://www.reddit.com/r/androiddev/wiki/rules#wiki_rules_for_comments\">still not allowed<\/a>.<\/p> <\/div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator <\/a> <br/> <span><a href=\"https://www.reddit.com/r/androiddev/comments/aqw6cr/weekly_anything_goes_thread/\">[link]<\/a><\/span> &#32; <span><a href=\"https://www.reddit.com/r/androiddev/comments/aqw6cr/weekly_anything_goes_thread/\">[comments]<\/a><\/span>",
+         "id": "t3_aqw6cr",
+         "link": {
+            "@href": "https://www.reddit.com/r/androiddev/comments/aqw6cr/weekly_anything_goes_thread/"
+         },
+         "updated": "2019-02-15T12:41:11+00:00",
+         "title": "Weekly \"anything goes\" thread!"
+      },
+      {
+         "author": {
+            "name": "/u/RandomHandle31",
+            "uri": "https://www.reddit.com/user/RandomHandle31"
+         },
+         "category": {
+            "@term": "androiddev",
+            "@label": "r/androiddev"
+         },
+         "content": "<!-- SC_OFF --><div class=\"md\"><p>It was a periodic &quot;understand &lt;app title that is not my own&gt; performance better with firebase&gt; &lt;link now&gt; kind of email.<\/p> <p>Anyone got this with an app title that is not his own? Must be a glitch? Thanks.<\/p> <\/div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/RandomHandle31\"> /u/RandomHandle31 <\/a> <br/> <span><a href=\"https://www.reddit.com/r/androiddev/comments/aqve84/admob_app_that_is_not_my_own_firebase_email/\">[link]<\/a><\/span> &#32; <span><a href=\"https://www.reddit.com/r/androiddev/comments/aqve84/admob_app_that_is_not_my_own_firebase_email/\">[comments]<\/a><\/span>",
+         "id": "t3_aqve84",
+         "link": {
+            "@href": "https://www.reddit.com/r/androiddev/comments/aqve84/admob_app_that_is_not_my_own_firebase_email/"
+         },
+         "updated": "2019-02-15T10:46:29+00:00",
+         "title": "AdMob <app that is not my own> Firebase email"
+      },
+      {
+         "author": {
+            "name": "/u/TheGreatCabbage2",
+            "uri": "https://www.reddit.com/user/TheGreatCabbage2"
+         },
+         "category": {
+            "@term": "androiddev",
+            "@label": "r/androiddev"
+         },
+         "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/TheGreatCabbage2\"> /u/TheGreatCabbage2 <\/a> <br/> <span><a href=\"https://support.malwarebytes.com/docs/DOC-2981\">[link]<\/a><\/span> &#32; <span><a href=\"https://www.reddit.com/r/androiddev/comments/aqv5e1/malwarebytes_denied_sms_and_call_log_permissions/\">[comments]<\/a><\/span>",
+         "id": "t3_aqv5e1",
+         "link": {
+            "@href": "https://www.reddit.com/r/androiddev/comments/aqv5e1/malwarebytes_denied_sms_and_call_log_permissions/"
+         },
+         "updated": "2019-02-15T10:07:43+00:00",
+         "title": "Malwarebytes denied SMS and Call Log permissions, forced to remove premium features"
+      },
+      {
+         "author": {
+            "name": "/u/Ram_1979",
+            "uri": "https://www.reddit.com/user/Ram_1979"
+         },
+         "category": {
+            "@term": "androiddev",
+            "@label": "r/androiddev"
+         },
+         "content": "<!-- SC_OFF --><div class=\"md\"><p>I want to create an interactive flash game for Android. <\/p> <p>How would I load the swf&#39;s, would I use a webviews or some other library?<\/p> <p>Would the swf&#39;s be interactive if say just loading them in with webview or would I have to do a lot more work ?<\/p> <p>Any tips?<\/p> <\/div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Ram_1979\"> /u/Ram_1979 <\/a> <br/> <span><a href=\"https://www.reddit.com/r/androiddev/comments/aqulmi/loading_flashswf_in_android/\">[link]<\/a><\/span> &#32; <span><a href=\"https://www.reddit.com/r/androiddev/comments/aqulmi/loading_flashswf_in_android/\">[comments]<\/a><\/span>",
+         "id": "t3_aqulmi",
+         "link": {
+            "@href": "https://www.reddit.com/r/androiddev/comments/aqulmi/loading_flashswf_in_android/"
+         },
+         "updated": "2019-02-15T08:37:13+00:00",
+         "title": "Loading flash(swf) in android"
+      },
+      {
+         "author": {
+            "name": "/u/matejdro",
+            "uri": "https://www.reddit.com/user/matejdro"
+         },
+         "category": {
+            "@term": "androiddev",
+            "@label": "r/androiddev"
+         },
+         "content": "<!-- SC_OFF --><div class=\"md\"><p>With recent SMS permission issues and other Play Store debacles, I&#39;m thinking about putting all my potential future apps somewhere else.<\/p> <p>Since all my apps are Open Source, first and obvious choice seems to be F.droid. However, many of my apps are Wear OS apps which need Play Services to communicate with the watch. And since Play Services lib is closed source, F.droid does not allow it on their store.<\/p> <p>What good alternatives are out there?<\/p> <\/div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/matejdro\"> /u/matejdro <\/a> <br/> <span><a href=\"https://www.reddit.com/r/androiddev/comments/aqtu3j/is_there_a_good_alternative_app_store_that_allows/\">[link]<\/a><\/span> &#32; <span><a href=\"https://www.reddit.com/r/androiddev/comments/aqtu3j/is_there_a_good_alternative_app_store_that_allows/\">[comments]<\/a><\/span>",
+         "id": "t3_aqtu3j",
+         "link": {
+            "@href": "https://www.reddit.com/r/androiddev/comments/aqtu3j/is_there_a_good_alternative_app_store_that_allows/"
+         },
+         "updated": "2019-02-15T06:40:44+00:00",
+         "title": "Is there a good alternative app store that allows Play Services?"
+      },
+      {
+         "author": {
+            "name": "/u/SabroanX",
+            "uri": "https://www.reddit.com/user/SabroanX"
+         },
+         "category": {
+            "@term": "androiddev",
+            "@label": "r/androiddev"
+         },
+         "content": "<table> <tr><td> <a href=\"https://www.reddit.com/r/androiddev/comments/aqtkqm/stressful_work_of_app_reviewing_smh/\"> <img src=\"https://a.thumbs.redditmedia.com/Vicw-N-NMzzs2DfpTuS9VOh6cbya4sRveEmeobLiJW0.jpg\" alt=\"Stressful work of app reviewing, smh\" title=\"Stressful work of app reviewing, smh\" /> <\/a> <\/td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/SabroanX\"> /u/SabroanX <\/a> <br/> <span><a href=\"https://i.redd.it/xr0qlg3raog21.jpg\">[link]<\/a><\/span> &#32; <span><a href=\"https://www.reddit.com/r/androiddev/comments/aqtkqm/stressful_work_of_app_reviewing_smh/\">[comments]<\/a><\/span> <\/td><\/tr><\/table>",
+         "id": "t3_aqtkqm",
+         "link": {
+            "@href": "https://www.reddit.com/r/androiddev/comments/aqtkqm/stressful_work_of_app_reviewing_smh/"
+         },
+         "updated": "2019-02-15T06:04:44+00:00",
+         "title": "Stressful work of app reviewing, smh"
+      },
+      {
+         "author": {
+            "name": "/u/RetailPleb",
+            "uri": "https://www.reddit.com/user/RetailPleb"
+         },
+         "category": {
+            "@term": "androiddev",
+            "@label": "r/androiddev"
+         },
+         "content": "<!-- SC_OFF --><div class=\"md\"><p>My apologies if this violates rule 2, I&#39;m new to this subreddit. I did try looking for this but obviously came up empty handed, and so here I am. <\/p> <p>My question is about Android customization. Specifically, what are the limitations of using apps to customize your phone? Of course a ROM can overhaul nearly every aspect of the phone, the problem of course is that it&#39;s much easier to download a launcher from the play store than it is to install a custom ROM. What are the limits of customizing using apps, and when might a ROM be necessary? <\/p> <\/div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/RetailPleb\"> /u/RetailPleb <\/a> <br/> <span><a href=\"https://www.reddit.com/r/androiddev/comments/aqru1x/general_question_about_roms/\">[link]<\/a><\/span> &#32; <span><a href=\"https://www.reddit.com/r/androiddev/comments/aqru1x/general_question_about_roms/\">[comments]<\/a><\/span>",
+         "id": "t3_aqru1x",
+         "link": {
+            "@href": "https://www.reddit.com/r/androiddev/comments/aqru1x/general_question_about_roms/"
+         },
+         "updated": "2019-02-15T02:30:55+00:00",
+         "title": "General question about ROMs"
+      },
+      {
+         "author": {
+            "name": "/u/danparker276",
+            "uri": "https://www.reddit.com/user/danparker276"
+         },
+         "category": {
+            "@term": "androiddev",
+            "@label": "r/androiddev"
+         },
+         "content": "<!-- SC_OFF --><div class=\"md\"><p>This has been working for a while but today, maybe some update broke things. Note, this works fine on different browsers and the default messaging app that comes with the phone. But on google messaging sms app, it opens the correct phone number and but always no body.<\/p> <p>Below is a test site that I use sometimes to test this, to show people it&#39;s not my code (credit whoever made this site)<\/p> <p><a href=\"https://bradorego.com/test/sms.html\">https://bradorego.com/test/sms.html<\/a><\/p> <p>&#x200B;<\/p> <p>I&#39;ve also noticed now my google messaging app asks me which browser to open a link on as well. I&#39;m not sure what happened here. Does this also happen for other people? <\/p> <p>I&#39;m no samsung galaxy note 9, messages google app says last update Jan 30, but maybe this is an over the air update<\/p> <\/div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/danparker276\"> /u/danparker276 <\/a> <br/> <span><a href=\"https://www.reddit.com/r/androiddev/comments/aqr4ga/some_new_update_has_broken_prepopulate_sms_body/\">[link]<\/a><\/span> &#32; <span><a href=\"https://www.reddit.com/r/androiddev/comments/aqr4ga/some_new_update_has_broken_prepopulate_sms_body/\">[comments]<\/a><\/span>",
+         "id": "t3_aqr4ga",
+         "link": {
+            "@href": "https://www.reddit.com/r/androiddev/comments/aqr4ga/some_new_update_has_broken_prepopulate_sms_body/"
+         },
+         "updated": "2019-02-15T01:11:12+00:00",
+         "title": "Some new update has broken pre-populate SMS body via html link on Google messaging app"
+      },
+      {
+         "author": {
+            "name": "/u/spaznuski",
+            "uri": "https://www.reddit.com/user/spaznuski"
+         },
+         "category": {
+            "@term": "androiddev",
+            "@label": "r/androiddev"
+         },
+         "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey, <\/p> <p>I have a single activity app which is centered around a fragment that will list data from online API. I use the same fragment throughout the app filtering the data as needed.<\/p> <p>Filtering is done by having parameters passed through the Factory to the DataSource. All this works fine if I only have one fragment loaded. I can filter and search just fine.<\/p> <p>Problems start when trying to load multiple fragments in a ViewPager. For example Fragment A - is filtered to show active items Fragment B - is filtered to show expired items both are to be displayed in a ViewPager using FragmentPagerAdapter. When I run the app both Fragments get filted for expired items (the last fragment added to viewpager) It seems the parameters that Fragment A set in the DataSource are overwritten immediately by Fragment B. Fragment A loadInitial works as it should but loadAfter is using the parameters from Fragment B.<\/p> <p>should also note if I invalidate() the DataSource it returns the correct filtered data without issue. (so its just when loaded my params get overwritten and loadAfter uses incorrect param)<\/p> <p>Tried messing with the Observer using getViewLifecycleOwner() trying to figure if they way I am calling the DataSource is the issue, Tried the various ViewPager Adapters FragmentStatePagerAdapter and FragmentPagerAdapter. <\/p> <p>All the checks show the DataSource getting the correct parameter then show it getting overwritten almost immediately.<\/p> <p>So question is the call to PageKeyedDataSource not unique to the Fragment Calling it? Why are my variables being overwritten by another fragment.<\/p> <p>Can anyone say where I should be looking to resolve this issue.<\/p> <p>Side note I have three fragments loaded using FragmentStatePagerAdapter with 2 of 3 being the Same Fragment Called with different params. It works fine because with three fragments loaded the FragmentStatePagerAdapter apparently doesnt initialize the 3rd fragment until after everything is loaded so it does not trip over the other fragment.<\/p> <p>&#x200B;<\/p> <p>Any sample code or guidance to ensure calls to the datasource are for lack of a better term &quot;unique&quot; because when using the ViewPager it creates the 2 fragments same time which seem to be using the one Datasource.<\/p> <p>&#x200B;<\/p> <p>Regards.<\/p> <\/div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/spaznuski\"> /u/spaznuski <\/a> <br/> <span><a href=\"https://www.reddit.com/r/androiddev/comments/aqqz9r/paging_library_using_pagekeyeddatasource_multiple/\">[link]<\/a><\/span> &#32; <span><a href=\"https://www.reddit.com/r/androiddev/comments/aqqz9r/paging_library_using_pagekeyeddatasource_multiple/\">[comments]<\/a><\/span>",
+         "id": "t3_aqqz9r",
+         "link": {
+            "@href": "https://www.reddit.com/r/androiddev/comments/aqqz9r/paging_library_using_pagekeyeddatasource_multiple/"
+         },
+         "updated": "2019-02-15T00:55:36+00:00",
+         "title": "Paging Library using PageKeyedDataSource multiple (same) fragment in viewpager headache."
+      },
+      {
+         "author": {
+            "name": "/u/Ram_1979",
+            "uri": "https://www.reddit.com/user/Ram_1979"
+         },
+         "category": {
+            "@term": "androiddev",
+            "@label": "r/androiddev"
+         },
+         "content": "<!-- SC_OFF --><div class=\"md\"><p>I was teaching myself Android development and have largely copied the layout/UI of a paid app.<\/p> <p>I haven&#39;t used the same icons or any specific graphics/logos/ splash screens but it&#39;s very obvious it&#39;s a copy, the lists, buttons, menu, are all exact the same.<\/p> <p>So can I do this without legal problems, I will be putting it on the store for a price etc so will be making some money.<\/p> <\/div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Ram_1979\"> /u/Ram_1979 <\/a> <br/> <span><a href=\"https://www.reddit.com/r/androiddev/comments/aqqqjm/copying_an_applegal_ramifications/\">[link]<\/a><\/span> &#32; <span><a href=\"https://www.reddit.com/r/androiddev/comments/aqqqjm/copying_an_applegal_ramifications/\">[comments]<\/a><\/span>",
+         "id": "t3_aqqqjm",
+         "link": {
+            "@href": "https://www.reddit.com/r/androiddev/comments/aqqqjm/copying_an_applegal_ramifications/"
+         },
+         "updated": "2019-02-15T00:29:24+00:00",
+         "title": "Copying an app(legal ramifications?)"
+      },
+      {
+         "author": {
+            "name": "/u/blazsolar",
+            "uri": "https://www.reddit.com/user/blazsolar"
+         },
+         "category": {
+            "@term": "androiddev",
+            "@label": "r/androiddev"
+         },
+         "content": "<table> <tr><td> <a href=\"https://www.reddit.com/r/androiddev/comments/aqoxvo/robolectric_42_contains_hundreds_of_sdk_support/\"> <img src=\"https://b.thumbs.redditmedia.com/rcAKnKPnZRpRsbsB_F931NELDGEhOOqIAcrM8ydvQXg.jpg\" alt=\"Robolectric 4.2 contains hundreds of SDK support improvements, new test APIs, big performance improvements, and a new plugin architecture.\" title=\"Robolectric 4.2 contains hundreds of SDK support improvements, new test APIs, big performance improvements, and a new plugin architecture.\" /> <\/a> <\/td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/blazsolar\"> /u/blazsolar <\/a> <br/> <span><a href=\"https://github.com/robolectric/robolectric/releases/tag/robolectric-4.2\">[link]<\/a><\/span> &#32; <span><a href=\"https://www.reddit.com/r/androiddev/comments/aqoxvo/robolectric_42_contains_hundreds_of_sdk_support/\">[comments]<\/a><\/span> <\/td><\/tr><\/table>",
+         "id": "t3_aqoxvo",
+         "link": {
+            "@href": "https://www.reddit.com/r/androiddev/comments/aqoxvo/robolectric_42_contains_hundreds_of_sdk_support/"
+         },
+         "updated": "2019-02-14T21:33:25+00:00",
+         "title": "Robolectric 4.2 contains hundreds of SDK support improvements, new test APIs, big performance improvements, and a new plugin architecture."
+      },
+      {
+         "author": {
+            "name": "/u/mootchard",
+            "uri": "https://www.reddit.com/user/mootchard"
+         },
+         "category": {
+            "@term": "androiddev",
+            "@label": "r/androiddev"
+         },
+         "content": "<table> <tr><td> <a href=\"https://www.reddit.com/r/androiddev/comments/aqom1y/store_a_card_on_file_using_square_reader_sdk/\"> <img src=\"https://b.thumbs.redditmedia.com/6EwvCeqMXnqzJBGlwRN0edRS6kukNO9E8FXaJz2ElAY.jpg\" alt=\"Store a Card on File using Square Reader SDK\" title=\"Store a Card on File using Square Reader SDK\" /> <\/a> <\/td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/mootchard\"> /u/mootchard <\/a> <br/> <span><a href=\"https://medium.com/p/store-a-card-on-file-using-reader-sdk-1a8e89d13953\">[link]<\/a><\/span> &#32; <span><a href=\"https://www.reddit.com/r/androiddev/comments/aqom1y/store_a_card_on_file_using_square_reader_sdk/\">[comments]<\/a><\/span> <\/td><\/tr><\/table>",
+         "id": "t3_aqom1y",
+         "link": {
+            "@href": "https://www.reddit.com/r/androiddev/comments/aqom1y/store_a_card_on_file_using_square_reader_sdk/"
+         },
+         "updated": "2019-02-14T21:03:39+00:00",
+         "title": "Store a Card on File using Square Reader SDK"
+      },
+      {
+         "author": {
+            "name": "/u/yayayausername",
+            "uri": "https://www.reddit.com/user/yayayausername"
+         },
+         "category": {
+            "@term": "androiddev",
+            "@label": "r/androiddev"
+         },
+         "content": "<table> <tr><td> <a href=\"https://www.reddit.com/r/androiddev/comments/aqoleq/youtubedl_wrapper_library_for_android/\"> <img src=\"https://b.thumbs.redditmedia.com/qxQKh_DDUjuPloYO9XrJ003r2bC78qEGyM-OERKkioM.jpg\" alt=\"youtube-dl wrapper library for android\" title=\"youtube-dl wrapper library for android\" /> <\/a> <\/td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/yayayausername\"> /u/yayayausername <\/a> <br/> <span><a href=\"https://github.com/yausername/youtubedl-android\">[link]<\/a><\/span> &#32; <span><a href=\"https://www.reddit.com/r/androiddev/comments/aqoleq/youtubedl_wrapper_library_for_android/\">[comments]<\/a><\/span> <\/td><\/tr><\/table>",
+         "id": "t3_aqoleq",
+         "link": {
+            "@href": "https://www.reddit.com/r/androiddev/comments/aqoleq/youtubedl_wrapper_library_for_android/"
+         },
+         "updated": "2019-02-14T21:02:00+00:00",
+         "title": "youtube-dl wrapper library for android"
+      },
+      {
+         "author": {
+            "name": "/u/FasterThanTW",
+            "uri": "https://www.reddit.com/user/FasterThanTW"
+         },
+         "category": {
+            "@term": "androiddev",
+            "@label": "r/androiddev"
+         },
+         "content": "<!-- SC_OFF --><div class=\"md\"><p>Another day, another new format to the permissions declaration rejection email.<\/p> <p>This time I was just updating the text of my app&#39;s store listing. I noticed that their help documents emphasized &quot;core functionality&quot; hinging on &quot;the most prominent feature in your app listing&quot;(paraphrasing), so since I have no other leads on why they are rejecting my caller ID/spam blocking app, I decided I would rewrite the store listing to emphasize that that is the core feature of the app. So I did. I was planning on submitting a new APK later with another declarations form.<\/p> <p>However, just updating the store listing apparently triggers a new review even though I was not prompted to fill out the permissions form again. So I received another rejection(store listing was NOT updated although my changes are saved in the play console).<\/p> <p>This new email again states that they cannot verify the functionality of my app, but now it includes a second note: <\/p> <blockquote> <p>Your app needs to be using runtime permissions for us to complete the review. Please update your app to target API level 26 or above and resubmit the declaration form.<\/p> <\/blockquote> <p>Needless to say, my app does use runtime permissions/targets API 26 and has for probably a year now. I thought we were now past the cutoff for even submitting updates targeting earlier APKs. So this is another nonsensical response - although considering all of the issues with this process, it might be a goose chase to even assume they meant to include that bit in the email to begin with.<\/p> <p>OR! Does anyone think it&#39;s actually possible that their testing AI needs the first thing in the app to be the permissions requests? My app has a welcome screen on first launch that explains things before asking for permissions. Is it actually possible that their system can&#39;t get past this screen to catch the permissions prompts? If that&#39;s the case, then the app would have to purposely ask for permissions immediately instead of when they&#39;re needed like we&#39;re supposed to.<\/p> <p>Another new thing - the email states that I can apply for a &quot;provisional approval&quot; for this update by submitting a new declaration form and choosing &quot;does not meet the sms and call log permissions policy&quot;. Sounds like a trap to me.<\/p> <p>Has anyone else seen these changes in their responses yet?<\/p> <p>edit: out of curiosity, I put my permissions requests right at launch, and while i was predictably rejected again, i did not have the API 26 message in the next rejection letter. Don&#39;t know if my change actually had anything to do with that.<\/p> <\/div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/FasterThanTW\"> /u/FasterThanTW <\/a> <br/> <span><a href=\"https://www.reddit.com/r/androiddev/comments/aqohbg/another_new_permissions_rejection_email/\">[link]<\/a><\/span> &#32; <span><a href=\"https://www.reddit.com/r/androiddev/comments/aqohbg/another_new_permissions_rejection_email/\">[comments]<\/a><\/span>",
+         "id": "t3_aqohbg",
+         "link": {
+            "@href": "https://www.reddit.com/r/androiddev/comments/aqohbg/another_new_permissions_rejection_email/"
+         },
+         "updated": "2019-02-14T20:51:39+00:00",
+         "title": "Another new permissions rejection email"
+      },
+      {
+         "author": {
+            "name": "/u/pedro_518",
+            "uri": "https://www.reddit.com/user/pedro_518"
+         },
+         "category": {
+            "@term": "androiddev",
+            "@label": "r/androiddev"
+         },
+         "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi guys, I&#39;m developing an android chat application. I&#39;m using socket.io to send and receive chat messages but, obiously, i can&#39;t do this when the app is killed. What&#39;s the better strategy to do this?<\/p> <p>Thanks for help.<\/p> <\/div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/pedro_518\"> /u/pedro_518 <\/a> <br/> <span><a href=\"https://www.reddit.com/r/androiddev/comments/aqnuj0/receive_messages_in_chat_app_when_app_is_closes/\">[link]<\/a><\/span> &#32; <span><a href=\"https://www.reddit.com/r/androiddev/comments/aqnuj0/receive_messages_in_chat_app_when_app_is_closes/\">[comments]<\/a><\/span>",
+         "id": "t3_aqnuj0",
+         "link": {
+            "@href": "https://www.reddit.com/r/androiddev/comments/aqnuj0/receive_messages_in_chat_app_when_app_is_closes/"
+         },
+         "updated": "2019-02-14T19:54:39+00:00",
+         "title": "Receive messages in chat app when app is closes"
+      },
+      {
+         "author": {
+            "name": "/u/Salt505",
+            "uri": "https://www.reddit.com/user/Salt505"
+         },
+         "category": {
+            "@term": "androiddev",
+            "@label": "r/androiddev"
+         },
+         "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Salt505\"> /u/Salt505 <\/a> <br/> <span><a href=\"https://www.reddit.com/r/androiddev/comments/aqn9za/i_really_want_to_get_into_android_app_development/\">[link]<\/a><\/span> &#32; <span><a href=\"https://www.reddit.com/r/androiddev/comments/aqn9za/i_really_want_to_get_into_android_app_development/\">[comments]<\/a><\/span>",
+         "id": "t3_aqn9za",
+         "link": {
+            "@href": "https://www.reddit.com/r/androiddev/comments/aqn9za/i_really_want_to_get_into_android_app_development/"
+         },
+         "updated": "2019-02-14T19:04:15+00:00",
+         "title": "I really want to get into Android app development. I have no prior coding experience. Where should I start?"
+      },
+      {
+         "author": {
+            "name": "/u/jamcar23",
+            "uri": "https://www.reddit.com/user/jamcar23"
+         },
+         "category": {
+            "@term": "androiddev",
+            "@label": "r/androiddev"
+         },
+         "content": "<!-- SC_OFF --><div class=\"md\"><p>So lets say you&#39;re using data binding with the v2 compiler. You have a file called my_layout.xml which has been changed to do data binding (made the root tag layout, added a data tag, etc.). <\/p> <p>If everything is fine the compiler will generate a MyLayoutBinding class, a MyLayoutBindingImpl class, and a DataBinderMapperImpl class (as well as a few other files). <\/p> <p>However if there&#39;s a typo somewhere in your xml or you&#39;re doing something that isn&#39;t supported (such as trying to call a java static method or kotlin extension method inside of a <a href=\"https://developer.android.com/topic/libraries/data-binding/expressions#listener_bindings\">listener binding<\/a>) then the compiler will silently not generate the MyLayoutBindingImpl class. <\/p> <p>Is there a way for it to not be silent? In other words, is it possible to have the compiler log why it couldn&#39;t generate the file or is it possible to have android studio put a warning on the line in the xml file that&#39;s causing the issue? <\/p> <\/div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/jamcar23\"> /u/jamcar23 <\/a> <br/> <span><a href=\"https://www.reddit.com/r/androiddev/comments/aqn4vx/if_youre_using_data_binding_and_have_some_kind_of/\">[link]<\/a><\/span> &#32; <span><a href=\"https://www.reddit.com/r/androiddev/comments/aqn4vx/if_youre_using_data_binding_and_have_some_kind_of/\">[comments]<\/a><\/span>",
+         "id": "t3_aqn4vx",
+         "link": {
+            "@href": "https://www.reddit.com/r/androiddev/comments/aqn4vx/if_youre_using_data_binding_and_have_some_kind_of/"
+         },
+         "updated": "2019-02-14T18:52:20+00:00",
+         "title": "If you're using data binding and have some kind of typo / error in the xml layout the data binding compiler will silently fail to generate the binding implementation file. Is there a way to prevent this?"
+      },
+      {
+         "author": {
+            "name": "/u/tikurahul",
+            "uri": "https://www.reddit.com/user/tikurahul"
+         },
+         "category": {
+            "@term": "androiddev",
+            "@label": "r/androiddev"
+         },
+         "content": "<!-- SC_OFF --><div class=\"md\"><p>Here is the release notes. Its short :)<\/p> <p><a href=\"https://developer.android.com/jetpack/androidx/releases/work#1.0.0-rc01\">https://developer.android.com/jetpack/androidx/releases/work#1.0.0-rc01<\/a><\/p> <\/div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/tikurahul\"> /u/tikurahul <\/a> <br/> <span><a href=\"https://www.reddit.com/r/androiddev/comments/aqmxvw/workmanager_rc01_is_now_available/\">[link]<\/a><\/span> &#32; <span><a href=\"https://www.reddit.com/r/androiddev/comments/aqmxvw/workmanager_rc01_is_now_available/\">[comments]<\/a><\/span>",
+         "id": "t3_aqmxvw",
+         "link": {
+            "@href": "https://www.reddit.com/r/androiddev/comments/aqmxvw/workmanager_rc01_is_now_available/"
+         },
+         "updated": "2019-02-14T18:35:22+00:00",
+         "title": "WorkManager rc01 is now available !"
+      },
+      {
+         "author": {
+            "name": "/u/androidtoolsbot",
+            "uri": "https://www.reddit.com/user/androidtoolsbot"
+         },
+         "category": {
+            "@term": "androiddev",
+            "@label": "r/androiddev"
+         },
+         "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/androidtoolsbot\"> /u/androidtoolsbot <\/a> <br/> <span><a href=\"https://androidstudio.googleblog.com/2019/02/android-studio-35-canary-4-available.html\">[link]<\/a><\/span> &#32; <span><a href=\"https://www.reddit.com/r/androiddev/comments/aqmx24/android_studio_35_canary_4_available/\">[comments]<\/a><\/span>",
+         "id": "t3_aqmx24",
+         "link": {
+            "@href": "https://www.reddit.com/r/androiddev/comments/aqmx24/android_studio_35_canary_4_available/"
+         },
+         "updated": "2019-02-14T18:33:19+00:00",
+         "title": "Android Studio 3.5 Canary 4 available"
+      }
+   ]
+}
